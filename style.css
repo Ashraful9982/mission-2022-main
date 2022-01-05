@@ -1,8 +1,11 @@
 h1{
-     color: rgb(49, 211, 35);
+     color: rgb(9, 51, 99);
      font-size: 300%;
 	 }
 p{
-     color: darkmagenta;
+     color: black;
     font-size: 150%;
+}
+#diff-color{
+     color: rgb(199, 134, 110);
 }
